@@ -7,12 +7,22 @@
   }
 
 
-
-
 .chamada{
     background: brown;
     margin-top: 80px;
     margin-bottom: 80px;
     display: flex;
     justify-content: center;
+}
+header{
+  font-size: 35px;
+  color: beige;
+  border-bottom: solid 3px beige ;
+  padding: 20px;
+}
+h1{
+  font-size: 35px;
+}
+.chamada-texto{
+  margin-right: 5%;
 }
